@@ -4,8 +4,8 @@
 Responsive CSS grid layout project using Sass.
 
 ## 🔗 Demo
-🎯 **Live Preview:** [https://your-demo-url.com ](https://francisco320.github.io/bento-grid-grid-with-sass/) 
-*(Recomiendo desplegarlo en GitHub Pages, Vercel o Netlify)*
+🎯 **Live Preview:** [demo](https://francisco320.github.io/bento-grid-grid-with-sass/) 
+
 
 ---
 
